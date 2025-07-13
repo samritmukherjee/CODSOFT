@@ -4,13 +4,14 @@ This repository contains all the tasks completed as part of the Java Programming
 
 ## 📁 Folder Structure
 
+```
 CODSOFT/
-├───TASK1_NumberGame → Number guessing game using loops and randomization
-├───TASK2_StudentGradeCalculator → Grade calculator using marks input and grading logic
-├───TASK3_ATMInterface → ATM simulation with deposit/withdrawal features
-├───TASK4_CurrencyConvertor → Currency converter using exchangerate.host API
-├───TASK5_StudentManagementSystem → Console-based student record system with file storage
-
+├───TASK1_NumberGame               → Number guessing game using loops and randomization
+├───TASK2_StudentGradeCalculator   → Grade calculator using marks input and grading logic
+├───TASK3_ATMInterface             → ATM simulation with deposit/withdrawal features
+├───TASK4_CurrencyConvertor        → Currency converter using exchangerate.host API
+├───TASK5_StudentManagementSystem  → Console-based student record system with file storage
+```
 Each folder contains Java files for the respective task.
 
 ## 👨‍💻 How to Run
