@@ -27,3 +27,6 @@ Each folder contains Java files for the respective task.
 
 ## 🔗 Author
 **Samrit Mukherjee**
+
+# CODSOFT
+CodSoft Java Internship Tasks - July 2025
